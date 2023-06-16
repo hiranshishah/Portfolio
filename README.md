@@ -1,24 +1,49 @@
-![Logo](https://user-images.githubusercontent.com/80641727/220139285-34c75609-5b8d-4a2a-9386-6d8f2b178040.jpg)
+<h1 id="hi-i-m-hiranshi">Hi👋, I&#39;m Hiranshi</h1>
 
-### Generate Your Developer Portfolio in Minutes
+## Machine Learning Enthusiast | Full Stack Developer
 
->DevHive is a web application that allows developers to create and deploy a professional portfolio website in minutes with just their GitHub account. The application fetches all relevant data from the user's GitHub profile, including their best projects sorted by stars count, and generates a customizable portfolio website that is mobile-friendly and high-performing.
+Welcome to my Portfolio! 
+I am Hiranshi Shah, final year student pursuing B.Tech in computer science with specialization in AI ML from Vellore Institute of technology. I am delighted to share a glimpse of my journey with all of you. I have been a part of various clubs, teams and activities during these three years. I am the student ambassador in VITB representing my state ,Delhi. I served as a core team member in video editing department of AI club. Besides, I also lead the website development department of Team GarVit. I have also gained experience as an event managing intern in a non profit organization, Aashman Foundation. With professional and confident speaking skills, I look forward to new learning experiences
+I'm passionate about all things machine learning and constantly exploring new techniques and algorithms. This README provides an overview of my projects and interests. Feel free to explore the repositories and connect with me!
 
-🌐 [Open Website](https://devhive.me)
+<h2 id="-about-me-">💫 About Me:</h2>
 
-## How to use 👨‍💻
+<p>🌱 I&#39;m currently practicing Data Structures and Algorithms <br><br>
+  🔭 I’m currently working on Web-Development <br><br>
+  👯 I’m looking to collaborate in Hackathons and new Projects <br><br>
+  💬 Talk to me about C++ <br><br>
+  📫 Reach me at: hiranshi2002@gmail.com <br><br>
+  😀 Enhance my problem solving skills.
+</p>
 
-1. Go to the [DevHive](https://www.devhive.me/) website.
-2. Login with your Github account.
-3. Wait for the application to fetch your data and generate your portfolio.
-4. Customize your portfolio by changing your name, email, and bio. You can delete and change the order of your projects.
-5. Preview your changes in real-time.
-6. Click the "Deploy on Vercel" button to deploy your portfolio. Thsi will open the Vercel.
-7. Choose your preferred Git provider to save your portfolio project.
-8. Choose a project name.
-9. Enter your GitHub username in the GITHUB_USERNAME value.
-10. Deploy your portfolio website. 🚀
+<h2 id="-socials-">🌐 Socials:</h2>
 
+<p>
+  <a href="https://www.linkedin.com/in/hiranshi-shah-648402204/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+</p>
 
----
-Built by [DeeKay](https://www.linkedin.com/in/deekay1712/)
+<h2 id="-tech-stack-">💻 Tech Stack:</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3"> 
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=java&amp;logoColor=white" alt="Java"> 
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"> 
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript"> 
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python">   
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&amp;logo=Canva&amp;logoColor=white" alt="Canva"> 
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy"> 
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas"> 
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white" alt="scikit-learn"> 
+</p>
+
+<!-- <h2 id="-github-stats-">📊 My GitHub Stats:</h2>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hiranshishah&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hiranshishah&amp;theme=dark&amp;hide_border=false" alt="">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiranshishah&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt="">
+</p>
+
+<p style="font-size: 7px">
+Note: Top languages doesn't reflect experience or skill level, it's only a github metric of the languages I have the most code on github.
+</p> -->
